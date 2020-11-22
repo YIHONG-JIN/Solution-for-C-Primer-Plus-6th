@@ -1,0 +1,297 @@
+Date : 2020-08-27 20:32:59
+Directory : c:\Users\JIN01\Desktop\C Primer Plus
+Total : 251 files,  5875 codes, 56 comments, 720 blanks, all 6651 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C        |        250 |      5,865 |         56 |        717 |      6,638 |
+| C++      |          1 |         10 |          0 |          3 |         13 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                 |        251 |      5,875 |         56 |        720 |      6,651 |
+| Chapter1                                                          |          2 |         15 |          0 |          4 |         19 |
+| Chapter10                                                         |         33 |      1,039 |          0 |        168 |      1,207 |
+| Chapter10\practice                                                |         14 |        583 |          0 |         89 |        672 |
+| Chapter11                                                         |         33 |        909 |          0 |        102 |      1,011 |
+| Chapter2                                                          |         12 |        164 |         13 |         34 |        211 |
+| Chapter2\Practice                                                 |          8 |        121 |          6 |         25 |        152 |
+| Chapter3                                                          |         18 |        208 |         17 |         49 |        274 |
+| Chapter3\Practice                                                 |          8 |         96 |          0 |         24 |        120 |
+| Chapter4                                                          |         25 |        315 |          0 |         54 |        369 |
+| Chapter4\Practice                                                 |          8 |        109 |          0 |         18 |        127 |
+| Chapter5                                                          |         25 |        394 |          0 |         40 |        434 |
+| Chapter5\practice                                                 |          9 |        160 |          0 |          9 |        169 |
+| Chapter6                                                          |         38 |        625 |          0 |         46 |        671 |
+| Chapter6\practice                                                 |         18 |        326 |          0 |          9 |        335 |
+| Chapter7                                                          |         23 |        880 |          0 |         40 |        920 |
+| Chapter7\practice                                                 |         11 |        519 |          0 |         19 |        538 |
+| Chapter8                                                          |         16 |        619 |         13 |         69 |        701 |
+| Chapter8\practice                                                 |          8 |        328 |         13 |         28 |        369 |
+| Chapter9                                                          |         26 |        707 |         13 |        114 |        834 |
+| Chapter9\UseHotel                                                 |          3 |         87 |          9 |         15 |        111 |
+| Chapter9\practice                                                 |         11 |        345 |          0 |         42 |        387 |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                          | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\arf.c              | C        |         33 |          0 |          8 |         41 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\array2d.c          | C        |         60 |          0 |          9 |         69 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\bounds.c           | C        |         24 |          0 |          3 |         27 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\day_mon1.c         | C        |         12 |          0 |          3 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\day_mon2.c         | C        |         11 |          0 |          2 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\day_mon3.c         | C        |         12 |          0 |          3 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\designate.c        | C        |         12 |          0 |          2 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\flc.c              | C        |         43 |          0 |          8 |         51 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\no_data.c          | C        |         13 |          0 |          1 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\order.c            | C        |         13 |          0 |          2 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\pnt_add.c          | C        |         18 |          0 |          2 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\1.c       | C        |         38 |          0 |          4 |         42 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\10.c      | C        |         21 |          0 |          3 |         24 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\11.c      | C        |         39 |          0 |          4 |         43 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\12.c      | C        |         50 |          0 |          8 |         58 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\13.c      | C        |         83 |          0 |          7 |         90 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\14.c      | C        |         82 |          0 |          7 |         89 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\2.c       | C        |         39 |          0 |          9 |         48 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\3.c       | C        |         20 |          0 |          7 |         27 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\4.c       | C        |         22 |          0 |          7 |         29 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\5.c       | C        |         25 |          0 |          8 |         33 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\6.c       | C        |         34 |          0 |          4 |         38 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\7.c       | C        |         66 |          0 |          9 |         75 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\8.c       | C        |         28 |          0 |          8 |         36 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\practice\9.c       | C        |         36 |          0 |          4 |         40 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\ptr_ops.c          | C        |         28 |          0 |         10 |         38 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\rain.c             | C        |         40 |          0 |          3 |         43 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\somedata.c         | C        |         13 |          0 |          2 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\sum_arr1.c         | C        |         23 |          0 |          5 |         28 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\sum_arr2.c         | C        |         21 |          0 |          5 |         26 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\vararr2d.c         | C        |         44 |          0 |          8 |         52 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\zippo1.c           | C        |         17 |          0 |          1 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter10\zippo2.c           | C        |         19 |          0 |          2 |         21 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\addresses.c        | C        |         13 |          0 |          2 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\arrchar.c          | C        |         29 |          0 |          2 |         31 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\compare.c          | C        |         44 |          0 |          5 |         49 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\compback.c         | C        |         18 |          0 |          6 |         24 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\copy1.c            | C        |         55 |          0 |          5 |         60 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\copy2.c            | C        |         16 |          0 |          3 |         19 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\copy3.c            | C        |         57 |          0 |          5 |         62 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\fgets1.c           | C        |         18 |          0 |          2 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\fgets2.c           | C        |         13 |          0 |          2 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\fgets3.c           | C        |         30 |          0 |          0 |         30 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\format.c           | C        |         44 |          0 |          5 |         49 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\getsputs.c         | C        |         13 |          0 |          2 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\hello.c            | C        |         18 |          0 |          2 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\join_chk.c         | C        |         50 |          0 |          4 |         54 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\mod_str.c          | C        |         43 |          0 |          7 |         50 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\nogo.c             | C        |         42 |          0 |          5 |         47 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\nono.c             | C        |          9 |          0 |          2 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\p_and_s.c          | C        |         11 |          0 |          2 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\put1.c             | C        |          9 |          0 |          0 |          9 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\put2.c             | C        |         12 |          0 |          1 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\put_out.c          | C        |         14 |          0 |          2 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\put_put.c          | C        |         30 |          0 |          5 |         35 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\quit_chk.c         | C        |         43 |          0 |          5 |         48 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\repeat.c           | C        |         12 |          0 |          2 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\s_gets().c         | C        |         26 |          0 |          1 |         27 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\scan_str.c         | C        |         10 |          0 |          2 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\sort_str.c         | C        |         70 |          0 |          6 |         76 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\starsrch.c         | C        |         24 |          0 |          2 |         26 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\str_cat.c          | C        |         47 |          0 |          4 |         51 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\strcnvt.c          | C        |         46 |          0 |          5 |         51 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\strings1.c         | C        |         15 |          0 |          2 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\strptr.c           | C        |          6 |          0 |          1 |          7 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter11\test_fit.c         | C        |         22 |          0 |          3 |         25 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter1\1.1.c               | C        |          9 |          0 |          3 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter1\concrete.c          | C        |          6 |          0 |          1 |          7 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\Practice\1.c        | C        |         13 |          1 |          1 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\Practice\2.c        | C        |         10 |          1 |          2 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\Practice\3.c        | C        |          9 |          0 |          3 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\Practice\4.c        | C        |         19 |          4 |          3 |         26 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\Practice\5.c        | C        |         22 |          0 |          4 |         26 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\Practice\6.c        | C        |         10 |          0 |          3 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\Practice\7.c        | C        |         18 |          0 |          4 |         22 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\Practice\8.c        | C        |         20 |          0 |          5 |         25 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\fathm_ft.c          | C        |         10 |          1 |          2 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\first.c             | C        |         10 |          0 |          2 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\nogood.c            | C        |         10 |          5 |          3 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter2\two_func.c          | C        |         13 |          1 |          2 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\Practice\1.c        | C        |         15 |          0 |          3 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\Practice\2.c        | C        |          9 |          0 |          2 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\Practice\3.c        | C        |          9 |          0 |          2 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\Practice\4.c        | C        |         11 |          0 |          3 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\Practice\5.c        | C        |         12 |          0 |          5 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\Practice\6.c        | C        |         12 |          0 |          3 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\Practice\7.c        | C        |         11 |          0 |          2 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\Practice\8.c        | C        |         17 |          0 |          4 |         21 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\altnames.c          | C        |         13 |          1 |          3 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\bases.c             | C        |          8 |          1 |          2 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\charcode.c          | C        |          9 |          1 |          2 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\escape.c            | C        |         11 |          5 |          3 |         19 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\platinum.c          | C        |         15 |          4 |          3 |         22 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\print1.c            | C        |         11 |          1 |          2 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\print2.c            | C        |         13 |          1 |          2 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\showf_pt.c          | C        |         12 |          1 |          3 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\toobig.c            | C        |          9 |          1 |          2 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter3\typesize.c          | C        |         11 |          1 |          3 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\Practice\4.1.c      | C        |         12 |          0 |          4 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\Practice\4.2.c      | C        |         14 |          0 |          3 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\Practice\4.3.c      | C        |         10 |          0 |          0 |         10 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\Practice\4.4.c      | C        |         12 |          0 |          1 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\Practice\4.5.c      | C        |         12 |          0 |          0 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\Practice\4.6.c      | C        |         19 |          0 |          6 |         25 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\Practice\4.7.c      | C        |         16 |          0 |          2 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\Practice\4.8.c      | C        |         14 |          0 |          2 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\defines.c           | C        |         15 |          0 |          2 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\flags.c             | C        |          8 |          0 |          1 |          9 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\floatcnv.c          | C        |         12 |          0 |          2 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\floats.c            | C        |         14 |          0 |          3 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\input.c             | C        |         12 |          0 |          3 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\intconv.c           | C        |         13 |          0 |          2 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\longstrg.c          | C        |         11 |          0 |          0 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\pizza.c             | C        |         13 |          0 |          1 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\praise1.c           | C        |         10 |          0 |          3 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\praise2.c           | C        |         14 |          0 |          4 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\printout.c          | C        |         13 |          0 |          2 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\prntval.c           | C        |          9 |          0 |          2 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\skip2.c             | C        |          9 |          0 |          2 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\stringf.c           | C        |         10 |          0 |          2 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\talkback.c          | C        |         18 |          0 |          4 |         22 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\varwid.c            | C        |         15 |          0 |          2 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter4\width.c             | C        |         10 |          0 |          1 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\add_one.c           | C        |         11 |          0 |          2 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\addemup.c           | C        |         11 |          0 |          1 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\bottles.c           | C        |         14 |          0 |          0 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\convert.c           | C        |         18 |          0 |          2 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\divide.c            | C        |         10 |          0 |          1 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\golf.c              | C        |          9 |          0 |          2 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\min_sec.c           | C        |         19 |          0 |          3 |         22 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\post_pre.c          | C        |         11 |          0 |          3 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\pound.c             | C        |         18 |          0 |          3 |         21 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\1.c        | C        |         19 |          0 |          0 |         19 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\2.c        | C        |         14 |          0 |          2 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\3.c        | C        |         19 |          0 |          1 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\4.c        | C        |         20 |          0 |          1 |         21 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\5.c        | C        |         14 |          0 |          1 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\6.c        | C        |         15 |          0 |          0 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\7.c        | C        |         17 |          0 |          1 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\8.c        | C        |         17 |          0 |          2 |         19 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\practice\9.c        | C        |         25 |          0 |          1 |         26 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\rules.c             | C        |          8 |          0 |          2 |         10 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\running.c           | C        |         33 |          0 |          4 |         37 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\shoes1.c            | C        |         12 |          0 |          2 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\shoes2.c            | C        |         17 |          0 |          2 |         19 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\sizeof.c            | C        |          9 |          0 |          1 |         10 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\squares.c           | C        |         11 |          0 |          1 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter5\wheat.c             | C        |         23 |          0 |          2 |         25 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\boolean.c           | C        |         18 |          0 |          3 |         21 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\cmpflt.c            | C        |         16 |          0 |          2 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\do_while.c          | C        |         14 |          0 |          2 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\entry.c             | C        |         17 |          0 |          3 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\for_cube.c          | C        |         11 |          0 |          1 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\postage.c           | C        |         11 |          0 |          3 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\power.c             | C        |         26 |          0 |          2 |         28 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\1.c        | C        |         12 |          0 |          0 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\10.c       | C        |         18 |          0 |          0 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\11.c       | C        |         13 |          0 |          2 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\12.c       | C        |         43 |          0 |          3 |         46 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\13.c       | C        |         17 |          0 |          1 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\14.c       | C        |         32 |          0 |          0 |         32 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\15.c       | C        |         19 |          0 |          1 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\16.c       | C        |         17 |          0 |          0 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\17.c       | C        |         18 |          0 |          0 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\18.c       | C        |         14 |          0 |          1 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\2.c        | C        |         12 |          0 |          0 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\3.c        | C        |         13 |          0 |          0 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\4.c        | C        |         13 |          0 |          0 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\5.c        | C        |         21 |          0 |          0 |         21 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\6.c        | C        |         16 |          0 |          1 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\7.c        | C        |         15 |          0 |          0 |         15 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\8.c        | C        |         13 |          0 |          0 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\practice\9.c        | C        |         20 |          0 |          0 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\rows1.c             | C        |         15 |          0 |          1 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\rows2.c             | C        |         15 |          0 |          1 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\scores_in.c         | C        |         22 |          0 |          1 |         23 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\summing.c           | C        |         18 |          0 |          2 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\sweetie1.c          | C        |         12 |          0 |          1 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\sweetie2.c          | C        |         11 |          0 |          2 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\t_and_f.c           | C        |          9 |          0 |          2 |         11 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\trouble.c           | C        |         18 |          0 |          1 |         19 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\truth.c             | C        |         17 |          0 |          3 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\when.c              | C        |         13 |          0 |          1 |         14 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\while1.c            | C        |         10 |          0 |          3 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\while2.c            | C        |         11 |          0 |          1 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter6\zeno.c              | C        |         15 |          0 |          2 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\animals.c           | C        |         53 |          0 |          2 |         55 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\break.c             | C        |         20 |          0 |          1 |         21 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\chcount.c           | C        |         16 |          0 |          1 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\colddays.c          | C        |         28 |          0 |          1 |         29 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\cypher1.c           | C        |         21 |          0 |          1 |         22 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\cypher2.c           | C        |         19 |          0 |          1 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\divisors.c          | C        |         36 |          0 |          2 |         38 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\electric.c          | C        |         36 |          0 |          3 |         39 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\paint.c             | C        |         16 |          0 |          1 |         17 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\1.c        | C        |         26 |          0 |          0 |         26 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\10.c       | C        |         89 |          0 |          1 |         90 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\11.c       | C        |         89 |          0 |         12 |        101 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\2.c        | C        |         28 |          0 |          0 |         28 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\3.c        | C        |         31 |          0 |          0 |         31 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\4.c        | C        |         27 |          0 |          1 |         28 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\5.c        | C        |         26 |          0 |          0 |         26 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\6.c        | C        |         29 |          0 |          1 |         30 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\7.c        | C        |         41 |          0 |          0 |         41 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\8.c        | C        |         94 |          0 |          3 |         97 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\practice\9.c        | C        |         39 |          0 |          1 |         40 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\skippart.c          | C        |         36 |          0 |          2 |         38 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\vowel.c             | C        |         39 |          0 |          3 |         42 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter7\wordcnt.c           | C        |         41 |          0 |          3 |         44 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\checking.c          | C        |         88 |          0 |         15 |        103 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\echo.c              | C        |         10 |          0 |          2 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\echo_eof.c          | C        |         10 |          0 |          2 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\file_eof.c          | C        |         22 |          0 |          2 |         24 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\guess.c             | C        |         15 |          0 |          3 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\menuette.c          | C        |         81 |          0 |         13 |         94 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\practice\1.c        | C        |         11 |          0 |          1 |         12 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\practice\2.c        | C        |         32 |          0 |          1 |         33 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\practice\3.c        | C        |         21 |          0 |          2 |         23 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\practice\4.c        | C        |         21 |         13 |          2 |         36 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\practice\5.c        | C        |         42 |          0 |          4 |         46 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\practice\6.c        | C        |         18 |          0 |          5 |         23 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\practice\7.c        | C        |        102 |          0 |          8 |        110 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\practice\8.c        | C        |         81 |          0 |          5 |         86 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\showchar1.c         | C        |         29 |          0 |          2 |         31 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter8\showchar2.c         | C        |         36 |          0 |          2 |         38 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\UseHotel\hotel.c    | C        |         44 |          9 |          9 |         62 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\UseHotel\hotel.h    | C++      |         10 |          0 |          3 |         13 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\UseHotel\usehotel.c | C        |         33 |          0 |          3 |         36 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\binary.c            | C        |         27 |          0 |          5 |         32 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\factor.c            | C        |         52 |          0 |          8 |         60 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\lesser.c            | C        |         28 |          0 |          4 |         32 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\lethead1.c          | C        |         24 |          0 |          6 |         30 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\lethead2.c          | C        |         32 |          0 |          8 |         40 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\loccheck.c          | C        |         17 |          0 |          5 |         22 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\misuse.c            | C        |         13 |          0 |          3 |         16 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\1.c        | C        |         21 |          0 |          4 |         25 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\10.c       | C        |         37 |          0 |          2 |         39 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\11.c       | C        |         30 |          0 |          2 |         32 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\2.c        | C        |         25 |          0 |          4 |         29 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\3.c        | C        |         25 |          0 |          4 |         29 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\4.c        | C        |         14 |          0 |          6 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\5.c        | C        |         24 |          0 |          4 |         28 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\6.c        | C        |         34 |          0 |          4 |         38 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\7.c        | C        |         39 |          0 |          4 |         43 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\8.c        | C        |         52 |          0 |          4 |         56 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\practice\9.c        | C        |         44 |          0 |          4 |         48 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\proto.c             | C        |         14 |          4 |          2 |         20 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\recur.c             | C        |         16 |          0 |          2 |         18 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\swap1.c             | C        |         17 |          0 |          5 |         22 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\swap2.c             | C        |         18 |          0 |          5 |         23 |
+| c:\Users\JIN01\Desktop\C Primer Plus\Chapter9\swap3.c             | C        |         17 |          0 |          4 |         21 |
+| Total                                                             |          |      5,875 |         56 |        720 |      6,651 |
++-------------------------------------------------------------------+----------+------------+------------+------------+------------+
