@@ -23,12 +23,11 @@ struct guy
 
 int main(void)
 {
-    struct guy fellow ={
+    struct guy fellow = {
         {"Ewen", "Villard"},
         "grilled salmon",
         "personality coach",
-        68112.00
-    };
+        68112.00};
 
     printf("Dear %s, \n\n", fellow.handle.first);
     printf("%s%s.\n", msgs[0], fellow.handle.first);
