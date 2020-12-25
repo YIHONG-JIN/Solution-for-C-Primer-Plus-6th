@@ -3,64 +3,55 @@
 
 #define NLEN 30
 struct namect {
-    char fname[NLEN];
-    char lname[NLEN];
-    int letters;
+  char fname[NLEN];
+  char lname[NLEN];
+  int letters;
 };
 
 void getinfo(struct namect *);
 void makeinfo(struct namect *);
 void showinfo(const struct namect *);
-char * s_gets(char * st, int n);
+char *s_gets(char *st, int n);
 
-int main(void)
-{
-    struct namect person;
+int main(void) {
+  struct namect person;
 
-    getinfo(&person);
-    makeinfo(&person);
-    showinfo(&person);
-    return 0;
+  getinfo(&person);
+  makeinfo(&person);
+  showinfo(&person);
+  return 0;
 }
 
-void getinfo(struct namect *pst)
-{
-    printf("Please enter your first name.\n");
-    s_gets(pst->fname, NLEN);
-    printf("Please enter your last name.\n");
-    s_gets(pst->lname, NLEN);
+void getinfo(struct namect *pst) {
+  printf("Please enter your first name.\n");
+  s_gets(pst->fname, NLEN);
+  printf("Please enter your last name.\n");
+  s_gets(pst->lname, NLEN);
 }
 
-void makeinfo(struct namect *pst)
-{
-    pst->letters = strlen(pst->fname) + strlen(pst->lname);
+void makeinfo(struct namect *pst) {
+  pst->letters = strlen(pst->fname) + strlen(pst->lname);
 }
 
-void showinfo(const struct namect *pst)
-{
-    printf("%s %s, your name contains %d letters.\n", pst->fname, pst->lname, pst->letters);
+void showinfo(const struct namect *pst) {
+  printf("%s %s, your name contains %d letters.\n", pst->fname, pst->lname,
+         pst->letters);
 }
 
-char * s_gets(char * st, int n)
-{
-    char * ret_val;
-    char * find;
+char *s_gets(char *st, int n) {
+  char *ret_val;
+  char *find;
 
-    ret_val = fgets(st, n, stdin);
-    if (ret_val)
-    {
-        find = strchr(st, '\n');
-        if (find)
-        {
-            *find = '\0';
-        }
-        else
-        {
-            while (getchar() != '\n')
-            {
-                continue;
-            }
-        }
+  ret_val = fgets(st, n, stdin);
+  if (ret_val) {
+    find = strchr(st, '\n');
+    if (find) {
+      *find = '\0';
+    } else {
+      while (getchar() != '\n') {
+        continue;
+      }
     }
-    return ret_val;
+  }
+  return ret_val;
 }
